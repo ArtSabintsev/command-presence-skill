@@ -122,6 +122,16 @@ Every message follows this skeleton unless the context demands otherwise:
 - **Handling objections:** Acknowledge, reframe, redirect. Never argue.
 - **Saying no / passing:** 2-3 sentences. Direct, gracious, door open.
 
+### Subject Lines
+
+The subject line is the first gate. If it doesn't earn the open, nothing else matters.
+
+- **Short.** 4-7 words. Anything longer gets truncated on mobile.
+- **Specific over clever.** "Quick question on your AI thesis" beats "Exciting opportunity."
+- **Signal relevance.** Name-drop a mutual connection, reference their fund's thesis, or tie to something timely. Give them a reason to open it now.
+- **No clickbait.** No ALL CAPS, no "urgent," no "don't miss this." Confidence is quiet.
+- **Match the tone.** Cold outreach: professional and precise. Warm follow-up: casual and direct. Update: lead with the headline metric.
+
 ---
 
 ## Voice Rules
