@@ -1,5 +1,5 @@
 ---
-name: command-speaking
+name: command-presence
 description: Draft and refine high-stakes emails, messages, and written communications with strategic persuasion, clarity, and confidence. Use when the user asks to write, draft, reply to, or rewrite any email, message, or communication — especially fundraising, negotiation, investor relations, or leadership contexts.
 user-invocable: true
 argument-hint: [context or instructions]
@@ -139,11 +139,11 @@ Every message follows this skeleton unless the context demands otherwise:
 ## Usage
 
 The user may invoke this skill as:
-- `/command-speaking draft a cold email to [investor] about [context]`
-- `/command-speaking reply to this: [pasted message]`
-- `/command-speaking rewrite this more confidently: [pasted text]`
-- `/command-speaking handle this objection: [pasted objection]`
-- `/command-speaking follow up with [person] about [topic]`
+- `/command-presence draft a cold email to [investor] about [context]`
+- `/command-presence reply to this: [pasted message]`
+- `/command-presence rewrite this more confidently: [pasted text]`
+- `/command-presence handle this objection: [pasted objection]`
+- `/command-presence follow up with [person] about [topic]`
 
 When `$ARGUMENTS` are provided, use them as context for the communication.
 
