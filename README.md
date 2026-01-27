@@ -22,14 +22,14 @@ It synthesizes principles from:
 Clone this repo and symlink the skill into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/ArtSabintsev/command-speaking-skill.git
-ln -s "$(pwd)/command-speaking-skill/.claude/skills/command-presence" ~/.claude/skills/command-presence
+git clone https://github.com/ArtSabintsev/command-presence-skill.git
+ln -s "$(pwd)/command-presence-skill/.claude/skills/command-presence" ~/.claude/skills/command-presence
 ```
 
 Or if you already have the repo locally:
 
 ```bash
-ln -s ~/Developer/command-speaking-skill/.claude/skills/command-presence ~/.claude/skills/command-presence
+ln -s ~/Developer/command-presence-skill/.claude/skills/command-presence ~/.claude/skills/command-presence
 ```
 
 ## Usage
