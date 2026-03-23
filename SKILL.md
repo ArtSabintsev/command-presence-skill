@@ -348,6 +348,47 @@ Every message follows this skeleton unless the context demands otherwise:
 
 ---
 
+## Deeper Anti-AI Patterns (Humanizer Rules)
+
+These patterns are subtler than banned words but just as detectable. Sourced from [humanizer-zh](https://skills.sh/op7418/humanizer-zh/humanizer-zh).
+
+### Structural Tells
+
+- **Kill quotable statements.** If a sentence reads like a pull quote or motivational poster, rewrite it. Polished aphorisms are an AI signature.
+- **Copula avoidance.** Use "is" and "has." Never inflate with "serves as," "functions as," "provides a framework for," "acts as a catalyst for." Simple verbs, not bureaucratic ones.
+- **Synonym cycling.** Don't force different words for the same thing across adjacent sentences. If you said "customers" in sentence one, don't switch to "clients" in sentence two just for variety. Humans repeat words. AI rotates them.
+- **False scope.** Drop "from X to Y" constructions ("from onboarding to retention," "from strategy to execution"). They sound comprehensive but say nothing. Be specific about one thing instead.
+- **Negation parallelism.** Never use "not only...but also." Just state both things.
+
+### Content Tells
+
+- **Over-emphasis on significance.** Remove words like "marks," "witness," "embodies," "crucial moment," "represents a shift." Just describe what happened.
+- **Generic positive conclusions.** Never end with vague optimism ("the future looks bright," "exciting times ahead"). End with a concrete next step or a specific claim.
+- **Shallow -ing analysis.** Cut empty present participle phrases tacked onto sentence ends ("...transforming how we think about X," "...reshaping the industry").
+- **Vague attribution.** Never write "experts say" or "many believe." Name the person or cut the claim.
+- **Over-qualification.** One hedge per paragraph maximum. Cut "potentially," "somewhat," "arguably" unless it's doing real work. If you're hedging more than once, you don't believe what you're writing.
+
+### Voice Injection
+
+Instead of just avoiding AI patterns, actively inject human signals:
+
+- **React to facts, don't just report them.** "That number surprised me" or "I didn't expect that" shows a person behind the text.
+- **Controlled messiness.** Allow a tangent, a half-formed aside, a sentence that doesn't perfectly advance the argument. Humans aren't optimized for coherence.
+- **Specific feeling over abstraction.** "At 3 AM, still waiting on the API response" beats "this was a challenging process."
+- **Admit uncertainty where real.** "I'm not sure this holds for enterprise" is more credible than pretending every claim is universal.
+
+### Quality Score (Mental Checklist)
+
+Rate every draft 1-10 on each dimension. If any score is below 7, revise that dimension before delivering.
+
+- **Directness:** Facts stated plainly vs. padded with preamble
+- **Rhythm:** Varied sentence length vs. mechanical repetition
+- **Trust:** Respects reader intelligence vs. over-explains
+- **Authenticity:** Sounds naturally human vs. sterile
+- **Concision:** No redundancy vs. bloated with filler
+
+---
+
 ## Self-Check Before Delivering
 
 Run every draft through this checklist:
@@ -362,6 +403,10 @@ Run every draft through this checklist:
 8. Is there only one ask?
 9. Is it under the word limit for its type?
 10. Does the subject line earn the open?
+11. Does any sentence read like a pull quote? Rewrite it.
+12. Are you cycling synonyms across adjacent sentences? Pick one word and stick with it.
+13. Does it end with vague optimism? Replace with a concrete claim or next step.
+14. Score each dimension (directness, rhythm, trust, authenticity, concision) at 7+ before sending.
 
 ---
 
@@ -407,3 +452,4 @@ Then draft accordingly. Always sound human.
 **Anti-AI / Human Voice:**
 12. Anti-Slop Writing (adenaufal/anti-slop-writing) — vocabulary banlist, structural patterns, stylometric analysis
 13. AI writing research — perplexity/burstiness metrics, type-token ratio, hapax legomena patterns
+14. Humanizer-zh (op7418/humanizer-zh) — 24 AI writing patterns, copula avoidance, synonym cycling detection, quality scoring rubric
