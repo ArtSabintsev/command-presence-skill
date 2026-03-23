@@ -29,8 +29,11 @@ Every message passes the "would a real person actually type this?" test. The ski
 - **Banned phrases** — "I hope this finds you well," "don't hesitate to reach out," and 25+ others
 - **Banned formatting** — max 1 em dash per email, no semicolons in casual writing, no bullet points in cold emails
 - **Required signals** — contractions always, varied sentence length, sentence fragments, specificity over vagueness
+- **Deeper anti-AI patterns** — copula avoidance ("serves as" → "is"), synonym cycling detection, quotable statement removal, false scope elimination, generic conclusion replacement
+- **Voice injection** — react to facts instead of reporting them, controlled messiness, specific feeling over abstraction, admitting real uncertainty
+- **Quality scoring** — every draft scored on directness, rhythm, trust, authenticity, and concision (must hit 7+ on each)
 
-Sources: [anti-slop-writing](https://github.com/adenaufal/anti-slop-writing), AI writing research on perplexity/burstiness metrics.
+Sources: [anti-slop-writing](https://github.com/adenaufal/anti-slop-writing), [humanizer-zh](https://skills.sh/op7418/humanizer-zh/humanizer-zh), AI writing research on perplexity/burstiness metrics.
 
 ## Persuasion Frameworks
 
