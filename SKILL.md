@@ -93,19 +93,21 @@ After gathering context, identify the message type. Each type has different rule
 **Never:** Make ultimatums. Reveal desperation. Negotiate against yourself.
 
 ### Saying No / Passing
-**Trigger:** Declining an opportunity, passing on a deal, turning someone down.
+**Trigger:** Declining an opportunity, passing on a deal, turning someone down, parting ways with someone.
 **Length:** 2-3 sentences. Don't over-explain.
-**Tone:** Direct, gracious, respectful. No hedging.
-**Structure:** Clear no, brief reason (optional), door open if appropriate.
-**Never:** Apologize excessively. Give five reasons. Ghost instead.
+**Tone:** Direct, gracious, respectful. No hedging. Sunshine principle — say it to their face.
+**Structure:** Clear no, brief honest reason (optional), door open if appropriate. If parting ways with a person, be direct about fit rather than manufacturing a narrative.
+**Never:** Apologize excessively. Give five reasons. Ghost instead. Build a slow drip of negative feedback when you should just be honest.
 
 ### Internal / Team
 **Trigger:** Communicating with co-founders, employees, direct reports.
 **Length:** As short as possible. People skim internal email.
-**Tone:** Direct, clear, action-oriented. Skip pleasantries.
-**Structure:** Decision or context up top, details if needed, clear owners and next steps.
-**Key principles:** Extreme Ownership, simplify.
-**Never:** Write a memo when a Slack message works. CC people who don't need to be there.
+**Tone:** Direct, clear, action-oriented. Skip pleasantries. Candid without being cruel.
+**Structure:** Context and constraints up top (the "why"), then details if needed, clear owners and next steps. Let people figure out the "how."
+**Key principles:** Extreme Ownership, simplify, Radical Candor (4A Feedback), Context Over Control.
+**For feedback:** Aim to assist, make it actionable, say it directly. No compliment sandwiches. No vague "maybe think about..." hedging.
+**For decisions:** State the decision, the reasoning, and what you considered. Farm for dissent before locking in. "What am I missing?" is a real question.
+**Never:** Write a memo when a Slack message works. CC people who don't need to be there. Give instructions when you should be giving context. Say it in a group thread when it should be a DM.
 
 ### Re-engagement / Breakup
 **Trigger:** Last attempt with a cold or gone-quiet prospect. Or reviving an old thread.
@@ -259,6 +261,16 @@ For communications involving terms, commitments, or competing interests:
 - **Mirror their values.** If they care about rigor, be precise. If they care about vision, paint the picture.
 - **Respect their self-image.** Frame your ask in a way that aligns with their identity.
 - **Identify their type.** The analytical person needs data. The relationship person needs trust. The thesis-driven person needs narrative alignment.
+
+### 9. Radical Candor & Context Over Control (No Rules Rules — Reed Hastings & Erin Meyer)
+
+When communicating feedback, decisions, or direction — especially internally:
+
+- **4A Feedback.** All direct feedback follows four rules: **Aim to assist** (state the benefit to them, not you), **Actionable** (tell them what to do differently, not just what's wrong), **Appreciate** (thank people for feedback you receive, even when it stings), **Accept or discard** (you don't have to act on every piece of feedback, but you have to genuinely consider it).
+- **Lead with context, not control.** Set the "why" and the constraints. Let the person decide the "how." Don't give instructions when you should be giving context. "Here's what we're optimizing for and here's the constraint" beats "do X then Y then Z."
+- **Sunshine principle.** Say it to their face. If you wouldn't say it directly to the person, don't say it at all. No back-channel complaints, no vague hints, no sandwiching criticism in so much praise it disappears.
+- **Farm for dissent.** When making a decision, actively seek disagreement before committing. "What am I missing?" and "Who disagrees?" aren't rhetorical. Silence isn't agreement.
+- **Adequate performance gets a generous goodbye.** When parting ways, be direct and respectful. Don't manufacture a performance narrative. "This isn't the right fit" is honest. A slow drip of negative feedback designed to build a paper trail is cowardly.
 
 ---
 
@@ -443,6 +455,7 @@ Then draft accordingly. Always sound human.
 6. *Getting to Yes* — Roger Fisher & William Ury (interests not positions, BATNA, mutual gain)
 7. *Extreme Ownership* — Jocko Willink & Leif Babin (take responsibility, simplify, prioritize and execute)
 8. *The Laws of Human Nature* — Robert Greene (mirror values, respect self-image, identify types)
+9. *No Rules Rules* — Reed Hastings & Erin Meyer (radical candor, 4A feedback, context over control, sunshine principle, farm for dissent)
 
 **Cold Outreach & Sales Copy:**
 9. Josh Braun — 5 writing principles (write with an eraser, be cheeky, be specific, show don't tell, loss aversion)
